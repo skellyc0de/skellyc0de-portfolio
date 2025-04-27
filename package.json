@@ -1,5 +1,4 @@
 {
-  "homepage": "https://skellyc0de.github.io/skellyc0de-portfolio/",
   "name": "skellyc0de-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
